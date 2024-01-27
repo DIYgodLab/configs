@@ -1,0 +1,1 @@
+/Users/diygod/.zshrc
