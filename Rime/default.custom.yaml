@@ -1,1 +1,7 @@
-/Users/diygod/Library/Rime/default.custom.yaml
+patch:
+  menu:
+    page_size: 7
+
+  switcher:
+    hotkeys:
+      - F4
